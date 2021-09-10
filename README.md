@@ -6,10 +6,10 @@ This code automates the game using Selenium Webdriver in Java. It takes from 1 t
 
 ## Requirements
 
-•	OS: Windows or Mac
-•	Browser: Google Chrome or Microsoft Edge
-•	[JDK 8https] (//www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
-•	[Maven] (https://maven.apache.org/install.html)
+* OS: Windows or Mac
+* Browser: Google Chrome or Microsoft Edge
+* [JDK 8https](//www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+* [Maven](https://maven.apache.org/install.html)
 
 ## How to execute tests?
 
