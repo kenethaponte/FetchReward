@@ -24,7 +24,7 @@ public class MainBase {
 		}
 
 		for (int i = (start + qty / 2); i <= end; i++) {
-			po.getRightBowlPos(i).sendKeys(i + "");
+			po.getRightBowlPos(i).sendKeys(i + "  ");
 		}
 	}
 
