@@ -12,7 +12,7 @@ public class BrowserConfig {
 
 	public static WebDriver getChromerDriver() {
 
-		if (System.getProperty("os.name").contains("Windows")) {
+		if (System.getProperty("os.name").contains("Windows ")) {
 			System.setProperty("webdriver.chrome.driver", path + "Windows/chromedriver.exe");
 		} else {
 			System.setProperty("webdriver.chrome.driver", path + "Mac/chromedriver");
