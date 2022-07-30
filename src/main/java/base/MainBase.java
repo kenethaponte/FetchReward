@@ -20,7 +20,7 @@ public class MainBase {
 		int qty = end - start + 1;
 
 		for (int i = start; i < (start + qty / 2); i++) {
-			po.getLeftBowlPos(i).sendKeys(i + "");
+			po.getLeftBowlPos(i).sendKeys(i + " ");
 		}
 
 		for (int i = (start + qty / 2); i <= end; i++) {
